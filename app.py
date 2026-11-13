@@ -6,7 +6,7 @@ import pandas as pd
 st.title("IMDb Movie Analytics Dashboard")
 
 # Load dataset
-df = pd.read_csv("Top 250 movies on imdb in 2026.csv")
+df = pd.read_csv("ToP 250 movies on imdb in 2026.csv")
 
 # Display first 10 records
 st.header("Dataset Preview")
